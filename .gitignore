@@ -1,0 +1,16 @@
+# Backend
+springapp/target/
+*.class
+
+# Frontend
+reactapp/node_modules/
+reactapp/build/
+reactapp/.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
