@@ -260,3 +260,4 @@ sections 6 and 7.
   credentials match `DB_USERNAME`/`DB_PASSWORD`.
 - **`npm start` fails** — delete `node_modules` and run `npm i` again; ensure Node.js 18+
   is installed.
+"# Employee-Attendance-Management-System" 
